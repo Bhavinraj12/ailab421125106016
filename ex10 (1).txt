@@ -1,0 +1,24 @@
+===== AI RESUME ANALYZER =====
+ 
+Enter your Resume Text:
+I am a B.Tech student with skills in Python, Java, SQL, HTML, CSS, Machine Learning and Pandas.
+ 
+Enter Job Description:
+We are looking for a candidate with Python, SQL, Machine Learning, JavaScript and Artificial Intelligence skills.
+ 
+===== ANALYSIS RESULT =====
+ 
+Detected Resume Skills:
+python, java, sql, machine learning, html, css, pandas
+ 
+Required Job Skills:
+python, sql, machine learning, javascript, artificial intelligence
+ 
+Matched Skills:
+python, sql, machine learning
+ 
+Missing Skills:
+javascript, artificial intelligence
+ 
+Resume Match Score: 60.00%
+Recommendation: Moderate Match
